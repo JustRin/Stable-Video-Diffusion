@@ -2,7 +2,7 @@
 Stable Video Diffusion auto install with web UI
 
 ### Automatic Installation on Windows
-1. Install [Python 3.10.6](https://www.python.org/downloads/release/python-3106/) (Newer version of Python does not support torch), checking "Add Python to PATH".
+1. Install [Python 3.10.11](https://www.python.org/downloads/release/python-31011/) (Newer version of Python does not support torch), checking "Add Python to PATH".
 2. Download the stable-video-diffusion repository, for example by running `git clone https://github.com/JustRin/Stable-Video-Diffusion.git`.
 3. Run `webui.bat` from Windows Explorer as normal, non-administrator, user.
 
