@@ -7,5 +7,5 @@ Stable Video Diffusion auto install with web UI
 3. Run `webui.bat` from Windows Explorer as normal, non-administrator, user.
 
 ### Setup Model for Stable Video Diffusion
-1. Dowload [svd](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid/resolve/main/svd.safetensors?download=true)
+1. Dowload [svd](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid/resolve/main/svd.safetensors?download=true) model.
 2. Save `scd model` into `checkpoints/` folder if `if the folder does not exist, create it in the root directory.`.
