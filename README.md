@@ -10,3 +10,9 @@ Stable Video Diffusion auto install with web UI
 1. Dowload [svd](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid/resolve/main/svd.safetensors?download=true) model or [svd_xt](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt/resolve/main/svd_xt.safetensors?download=true) model.
 2. Сreate `checkpoints/` folder in the root directory.
 3. Save `scd model` into `checkpoints/` folder.
+
+# Exemple Generation
+Image created using Stable Diffusion img2img.
+
+![tile](assets/gif1.gif)
+![tile](assets/gif2.gif)
