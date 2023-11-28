@@ -12,7 +12,7 @@ Stable Video Diffusion auto install with web UI
 3. Save `scd model` into `checkpoints/` folder.
 
 # Exemple Generation
-Image created using Stable Diffusion img2img.
+Image created using Stable Diffusion img2img -> Then sent to stable video diffusion to generate video.
 
 ![tile](assets/gif1.gif)
 ![tile](assets/gif2.gif)
